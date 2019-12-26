@@ -3,7 +3,7 @@ This repo mimics the spirit of "[Teach Yourself Computer Science](https://teachy
 
 The Generation Process of The Guide
 
-1. Survey
+1. [Survey](https://github.com/DataStudySquad/TeachYourselfDataEngineering/wiki/Survey)
   - Any resources related to data engineering is welcome
   - Probable resource format: course, podcast, video, blog, etc.
   - Probable resource topic: database, pipeline tools, programming language, data processing techniques, career advice, projects, etc.
